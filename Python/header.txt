@@ -1,0 +1,16 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+"""
+Stock margin calculator.
+
+author: Andrey Ruban
+website: how2.pp.ua
+last modified: Sep 2018
+
+WxProgramm should has:
+1 Import the necessary wxPython package
+2 Subclass the wxPython application class
+3 Define an application initialization method
+4 Create an application class instance
+5 Enter the application’s main event loop
+"""
