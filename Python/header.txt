@@ -8,14 +8,7 @@ website: how2.pp.ua
 last modified: Sep 2018
 
 Every programm should has:
-1 Проверка входных данных до начала бизнес логики
-2 Обработка исключений
-3 Вывод данных
-
-WxProgramm should has:
-1 Import the necessary wxPython package
-2 Subclass the wxPython application class
-3 Define an application initialization method
-4 Create an application class instance
-5 Enter the application’s main event loop
+1 Check input data before business logic
+2 Exception termination
+3 Data output
 """
